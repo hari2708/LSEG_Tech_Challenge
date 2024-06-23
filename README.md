@@ -19,6 +19,3 @@ A simple quiz application that displays 5 questions, each with 4 possible answer
 1. Clone the repository from GitHub.
 2. Open `index.html` in a web browser.
 
-## Enhancements
-- Additional functionality or checks.
-- Improved user experience.
